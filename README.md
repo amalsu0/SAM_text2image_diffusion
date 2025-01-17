@@ -1,7 +1,7 @@
 # SAM_text2image_diffusion
 
 <p align="center">
-  <img src="res2.jpg" width="350" >
+  <img src="res2.jpg" width="600" >
 </p>
 
 ## Project Introduction
