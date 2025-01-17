@@ -1,5 +1,9 @@
 # SAM_text2image_diffusion
 
+<p align="center">
+  <img src="res2.jpg" width="350" >
+</p>
+
 ## Project Introduction
 
 This project showcases the use of cutting-edge AI techniques to create an interactive tool for modifying images. It integrates the Segment Anything Model (SAM) for object selection and Stable Diffusion for generating creative replacements for backgrounds or subjects in images.
